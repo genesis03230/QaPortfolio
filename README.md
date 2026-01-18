@@ -9,6 +9,9 @@ It includes:
 
 ## Manual Game Testing Projects
 - [Mi Argentina – QA](https://github.com/genesis03230/MiArgentinaQA)
+- [Advanced Parkour System – QA](https://github.com/genesis03230/ParkourSystemQA)
+- [Rise of the Humble Knight – QA](https://github.com/genesis03230/RiseOfTheHumbleKnightQA)
+- [Kings and Pigs – QA](https://github.com/genesis03230/KingsAndPigsQA)
 
 ## QA Automation (Web)
 - Java QA Automation Framework (Web Testing – DemoBlaze):  
